@@ -44,7 +44,7 @@ The dataset was extracted from the Open Policing Project and focuses on police s
 ## 🗺️ Visual Highlights
 
 - Time series plots showing seasonal trends in stop frequency
-- Histograms and boxplots of age distributions by race and gender
+- Histograms, boxplots and barplot to study the distribution of data in different columns
 - Interactive maps of stop density using Folium
 
 
